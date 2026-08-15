@@ -1,5 +1,5 @@
 # ข้อมูลพื้นฐาน
-<img src=".jpg" height="300">
+<img src="Sarach.jpg" height="300">
 
 
 **- ชื่อจริง/ชื่อเล่น/อายุ -**🙂\
